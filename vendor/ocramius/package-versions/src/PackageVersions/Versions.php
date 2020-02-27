@@ -21,6 +21,7 @@ final class Versions
      * @internal
      */
     public const VERSIONS          = array (
+  'beberlei/doctrineextensions' => 'v1.2.6@af72c4a136b744f1268ca8bb4da47a2f8af78f86',
   'doctrine/annotations' => 'v1.8.0@904dca4eb10715b92569fbcd79e201d5c349b6bc',
   'doctrine/cache' => '1.10.0@382e7f4db9a12dc6c19431743a2b096041bcdd62',
   'doctrine/collections' => '1.6.4@6b1e4b2b66f6d6e49983cebfe23a21b7ccc5b0d7',
